@@ -1,6 +1,7 @@
 # C/C++ Programs
-Let's gather some programs & algorithms in C/C++ for _Hacktoberfest 2020_
+Let's gather some programs & algorithms in C/C++ for _Hacktoberfest 2020_  
 
+This repository holds saparate folders to store the algorithms accordingly.
 
 ## Getting Started
 
@@ -40,6 +41,6 @@ git push origin my-new-branch
 - Add yourself to the contributors' file i.e. [```contributors.md```](contributors.md) using following code snippet:
 
 ```
-[Your Name](https://github.com/<your-github-username>)
+* [Your Name](https://github.com/<your-github-username>)
 ```
 -------------------------
