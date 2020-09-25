@@ -40,6 +40,6 @@ git push origin my-new-branch
 - Add yourself to the contributors' file i.e. [```contributors.md```](contributors.md) using following code snippet:
 
 ```
-[Your Name](https://github.com/<your-github-username>)
+* [Your Name](https://github.com/<your-github-username>)
 ```
 -------------------------
